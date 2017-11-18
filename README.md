@@ -8,7 +8,7 @@
 | Chipset                 | Qualcomm MSM8940 Snapdragon 435   |
 | GPU                     | Adreno 505                        |
 | Memory                  | 2/3 GB                            |
-| Shipped Android Version | 6.0.1                             |
+| Shipped Android Version | 7.1.2                             |
 | Storage                 | 16/32 GB                          |
 | MicroSD                 | Up to 256 GB                      |
 | Battery                 | 4100 mAh (non-removable)          |
