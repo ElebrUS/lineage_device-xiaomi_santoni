@@ -32,7 +32,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 PRODUCT_BRAND := Xiaomi
-PRODUCT_DEVICE := land
+PRODUCT_DEVICE := santoni
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := lineage_santoni
 
